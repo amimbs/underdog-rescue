@@ -14,9 +14,9 @@
 `UnderDog Rescue` is a front-end group project. It's desigend to help a user find dog thata re up for adoption near their area code. Once they select a dog, the website will link them to the dog's adoption page.
 
 ## Responsibilities
-- Wireframe the site.
-- help research and test several APIs using [Postman](https://www.postman.com/).
-- Implement website logic for APIs and their respective parameters.
+- Wireframed the site.
+- Helped research and test several APIs using [Postman](https://www.postman.com/).
+- Implemented website logic for APIs and their respective parameters.
 
 ## Local Installation
 ```console
