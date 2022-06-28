@@ -1,11 +1,11 @@
-# :dog: UnderDog Rescue
+# :dog: UnderDog Rescue :dog:
 
 ![Banner](./assets/banner.JPG)
 
 ## Table of Contents
 * [General Info](#general-info)
 * [Local Installation](#local-installation)
-* [Tools used](#built-with)
+* [Tools used](#tools-used)
 * [Try it Out!](#try-it-out)
 
 ## General Info
@@ -15,7 +15,7 @@
 ```console
 $ git clone https://github.com/amimbs/underdog-rescue.git
 ```
-- Once the repository is finished downloading, simply index.html locally in your browser of choice.
+- Once the repository is finished downloading, simply run index.html locally in your browser of choice.
 
 ## Tools Used
 - HTML
